@@ -50,3 +50,10 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+
+# Folders
+build-AlgorithmGUI-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/
+build-AlgorithmGUI-Desktop_Qt_5_15_2_MinGW_32_bit-Release/
+
+# User file
+AlgorithmGUI/AlgorithmGUI.pro.user

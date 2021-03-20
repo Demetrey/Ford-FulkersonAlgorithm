@@ -1,0 +1,1 @@
+Generator\Graphviz\bin\dot.exe -Tpng input\outf.gv -o output\outf.png

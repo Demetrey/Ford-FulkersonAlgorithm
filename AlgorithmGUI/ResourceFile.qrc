@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>Resources/About.txt</file>
+        <file>Resources/HowToUse.txt</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>Resources/icon.ico</file>
+        <file>Resources/crab.ico</file>
+    </qresource>
+</RCC>
